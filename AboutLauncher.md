@@ -32,10 +32,10 @@ Yes. We will continue to update and improve both the Launcher and the Browser.
 ### **How do I install the Launcher?**
 We’ve tried to make it as simple as possible:
 
-1. Download the executable [HERE](https://github.com/Morgan-Kot/KotliteBrowser/blob/main/KotliteLauncher-v1.exe)
-2. Download the Installer    
+1. Download the executable [HERE](https://github.com/Morgan-Kot/KotliteBrowser/blob/main/KotliteLauncher-v1.exe)  
+2. ~Download the Installer~  
 
-(you can also download and compile the source code.)
+(you can also download and compile the source code.)  
 
 
 
