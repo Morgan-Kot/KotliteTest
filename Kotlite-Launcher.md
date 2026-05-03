@@ -10,4 +10,4 @@ Instead of checking this **Github repo** you can simply install the Kotlite Laun
 #
 
 ### Why use *Kotlite Launcher*
-The **Kotlite Launcher** makes it easier to install / launch different **Kotlite Browser** [releases](https://link-url-here.org)
+The **Kotlite Launcher** makes it easier to install / launch different **Kotlite Browser** [releases](https://github.com/Morgan-Kot/KotliteBrowser/releases)
